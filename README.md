@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaycharlie01" alt="vinaycharlie01" /> </p>
 
-- 👨‍💻  my [website](https://vinaycharlie01.github.io/#/)
-
 
 - 📫 How to reach me **vinikshatriyas@gmail.com**
 
