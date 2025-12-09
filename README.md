@@ -4,6 +4,8 @@
 
 
 - 📫 How to reach me **vinikshatriyas@gmail.com**
+- 🌐 **Visit my portfolio:** [vinaycharlie01.github.io](https://vinaycharlie01.github.io/)  
+
 
 - Learn Unlearn Relearn
 <p align="center">
